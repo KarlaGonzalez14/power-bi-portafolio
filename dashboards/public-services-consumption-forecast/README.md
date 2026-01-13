@@ -1,7 +1,7 @@
 # 🚰 Public Services Consumption & Forecast Dashboard
 
 ## 📝 Descripción
-Dashboard desarrollado en **Power BI** para analizar el comportamiento histórico de los servicios públicos y proyectar su consumo a corto plazo. El análisis se basa en **series temporales**, permitiendo visualizar tendencias, variaciones mensuales y estimaciones a 2 meses para apoyar la planeación y asignación eficiente de recursos.
+Dashboard desarrollado en **Power BI** para analizar el comportamiento histórico del consumo de servicios públicos y proyectar su comportamiento a corto plazo. El análisis se basa en **series temporales**, permitiendo visualizar tendencias, variaciones mensuales y estimaciones a 2 meses que apoyan la planeación y asignación eficiente de recursos.
 
 ---
 
@@ -14,60 +14,52 @@ El área de **Servicios Públicos** solicita apoyo del área de BI para:
 
 ---
 
-## 📊 Servicios analizados
-- Acueducto (m³)
-- Alcantarillado (m³)
-- Energía (kW)
-- Gas
-- Otros servicios
+## 📊 KPIs principales
+- Consumo por servicio  
+- Cargo fijo mensual  
+- Valor unitario  
+- Recibo total mensual  
+- Variación mensual del consumo  
+- Tendencia histórica y proyección a 2 meses  
 
 ---
 
-## 📈 KPIs principales
-- Consumo por servicio
-- Cargo fijo mensual
-- Valor unitario
-- Recibo total mensual
-- Variación mensual del consumo
-- Tendencia histórica y proyección a 2 meses
+## 🔍 Análisis de resultados
+El análisis se basa en **series temporales**, permitiendo evaluar el comportamiento histórico del consumo de los servicios públicos y su evolución en el tiempo.
+
+Principales hallazgos:
+- Se identifican tendencias crecientes y decrecientes en el consumo según el tipo de servicio.
+- Existen variaciones mensuales que pueden estar asociadas a estacionalidad o cambios operativos.
+- Algunos servicios presentan incrementos atípicos que impactan directamente el recibo total mensual.
+- Las proyecciones a 2 meses permiten anticipar escenarios de aumento o disminución en el consumo y los costos asociados, facilitando una planeación preventiva.
 
 ---
 
-## 🧠 Enfoque analítico (Series Temporales)
-Este proyecto utiliza **análisis de series temporales** para:
-- Evaluar el comportamiento histórico del consumo
-- Identificar tendencias crecientes o decrecientes
-- Analizar estacionalidad y variaciones mensuales
-- Generar proyecciones a corto plazo que apoyen la toma de decisiones
-
-Las proyecciones permiten anticipar escenarios de aumento o disminución en los costos de los servicios.
-
----
-
-## 🧠 Valor analítico
-El dashboard permite:
-- Detectar incrementos atípicos en el consumo o en el recibo total
-- Comparar el comportamiento entre distintos servicios
-- Anticipar necesidades presupuestales a corto plazo
-- Optimizar la planeación de recursos basada en tendencias reales
+## 🎯 Impacto en el negocio
+Este dashboard apoya decisiones relacionadas con:
+- Planeación presupuestal de corto plazo
+- Asignación eficiente de recursos financieros
+- Anticipación de incrementos en el consumo de servicios
+- Control y monitoreo del gasto en servicios públicos
+- Toma de decisiones basada en tendencias reales y proyectadas
 
 ---
 
 ## 🗂️ Estructura de análisis
 - Filtros dinámicos por tipo de servicio
-- Visualización del histórico mensual
+- Visualización del histórico mensual de consumo
 - Líneas de tendencia basadas en series temporales
-- Proyección de comportamiento a 2 meses
-- Análisis del impacto en el recibo total
+- Proyección del comportamiento a 2 meses
+- Análisis del impacto en el recibo total mensual
 
 ---
 
 ## 🛠️ Herramientas utilizadas
 - Power BI  
 - DAX  
-- Excel / CSV (datos ficticios)
+- Excel / CSV (datos ficticios)  
 - Análisis de series temporales
-  
+
 ---
 
 ## 📬 Contacto
