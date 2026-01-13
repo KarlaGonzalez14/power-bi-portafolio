@@ -23,10 +23,14 @@ Este portafolio tiene como objetivo demostrar mis competencias como **Data Analy
 
 
 
-👉 Cada proyecto cuenta con:
-- Descripción del requerimiento de negocio  
-- KPIs principales  
-- Insights relevantes  
+## 👉 Cada proyecto cuenta con:
+- Descripción
+- Requerimiento de negocio
+- KPIs principales
+- Análisis de resultados
+- Impacto en el negocio
+- Estructura de análisis
+- Herramientas utilizadas
 - Capturas del dashboard  
 - Archivo `.pbix`  
 
