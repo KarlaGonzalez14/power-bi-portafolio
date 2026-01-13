@@ -20,17 +20,25 @@ Una supervisora de bodegas y producto necesita una herramienta que le permita:
 - Unidades despachadas  
 - Unidades en existencia  
 - Costo total del inventario  
-- Precio unitario de venta  
-
+- Precio unitario de venta
+  
 ---
 
-## 🧠 Valor analítico
-Este dashboard permite:
-- Identificar diferencias entre compras y despachos
-- Analizar tendencias mensuales en el movimiento de inventario
-- Detectar categorías y subproductos con mayor rotación
-- Evaluar el valor económico del inventario almacenado
-- Apoyar decisiones relacionadas con reposición, control de stock y planeación operativa
+## 🔍 Análisis de resultados
+El análisis del inventario permite identificar el comportamiento operativo de los productos y subproductos a lo largo del tiempo, enfocándose en existencias, flujo de mercancía y valorización económica.
+
+Principales hallazgos:
+- Se observan diferencias relevantes entre unidades compradas y despachadas, lo que permite detectar posibles riesgos de sobrestock o desabasto.
+- Algunos subproductos presentan mayor rotación, lo cual los posiciona como críticos para la operación y priorización de reposición.
+- La comparación entre costo total del inventario vs precio de venta evidencia el valor potencial del inventario almacenado y su impacto financiero.
+- El análisis mensual del movimiento permite anticipar picos de demanda, facilitando una planeación más eficiente del abastecimiento.
+
+## 🎯 Impacto en el negocio
+Este dashboard apoya decisiones relacionadas con:
+- Control y optimización del stock
+- Planeación de compras y reposiciones
+- Priorización de productos con mayor rotación
+- Evaluación del capital invertido en inventarios
 
 ---
 
