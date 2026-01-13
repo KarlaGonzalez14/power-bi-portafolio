@@ -27,11 +27,11 @@ Una supervisora de bodegas y producto necesita una herramienta que le permita:
 ## 🔍 Análisis de resultados
 El análisis del inventario permite identificar el comportamiento operativo de los productos y subproductos a lo largo del tiempo, enfocándose en existencias, flujo de mercancía y valorización económica.
 
-Principales hallazgos:
-- Se observan diferencias relevantes entre unidades compradas y despachadas, lo que permite detectar posibles riesgos de sobrestock o desabasto.
-- Algunos subproductos presentan mayor rotación, lo cual los posiciona como críticos para la operación y priorización de reposición.
-- La comparación entre costo total del inventario vs precio de venta evidencia el valor potencial del inventario almacenado y su impacto financiero.
-- El análisis mensual del movimiento permite anticipar picos de demanda, facilitando una planeación más eficiente del abastecimiento.
+**Principales hallazgos:**
+- Se observan **diferencias relevantes entre unidades compradas y despachadas**, lo que permite detectar posibles riesgos de sobrestock o desabasto.
+- Algunos **subproductos presentan mayor rotación**, lo cual los posiciona como críticos para la operación y priorización de reposición.
+- La comparación entre **costo total del inventario vs precio de venta** evidencia el valor potencial del inventario almacenado y su impacto financiero.
+- El análisis mensual del movimiento permite **anticipar picos de demanda**, facilitando una planeación más eficiente del abastecimiento.
 
 ## 🎯 Impacto en el negocio
 Este dashboard apoya decisiones relacionadas con:
