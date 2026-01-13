@@ -46,3 +46,9 @@ Este dashboard permite:
 - Power BI  
 - DAX  
 - Excel / CSV (fuente de datos ficticia)
+---
+
+## 📬 Contacto
+📌 **LinkedIn: [LinkedIn – Karla María González](https://www.linkedin.com/in/karla-maria-gonzalez-estrada-a07b44285/)**
+
+📌 **Correo: karlaestrada1434@gmail.com**
