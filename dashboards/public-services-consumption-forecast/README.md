@@ -28,10 +28,10 @@ El área de **Servicios Públicos** solicita apoyo del área de BI para:
 El análisis se basa en **series temporales**, permitiendo evaluar el comportamiento histórico del consumo de los servicios públicos y su evolución en el tiempo.
 
 Principales hallazgos:
-- Se identifican tendencias crecientes y decrecientes en el consumo según el tipo de servicio.
-- Existen variaciones mensuales que pueden estar asociadas a estacionalidad o cambios operativos.
-- Algunos servicios presentan incrementos atípicos que impactan directamente el recibo total mensual.
-- Las proyecciones a 2 meses permiten anticipar escenarios de aumento o disminución en el consumo y los costos asociados, facilitando una planeación preventiva.
+- Se identifican **tendencias crecientes y decrecientes** en el consumo según el tipo de servicio.
+- Existen **variaciones mensuales** que pueden estar asociadas a estacionalidad o cambios operativos.
+- Algunos servicios presentan **incrementos atípicos** que impactan directamente el recibo total mensual.
+- Las **proyecciones a 2 meses** permiten anticipar escenarios de aumento o disminución en el consumo y los costos asociados, facilitando una planeación preventiva.
 
 ---
 
